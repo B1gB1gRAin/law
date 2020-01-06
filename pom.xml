@@ -4,7 +4,7 @@
   <artifactId>lawservice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <!-- 项目属性 -->
+  <!-- 项目属性1 -->
 	<properties>
 		<!-- plugins version setting -->
 		<maven-compiler-plugin.version>3.6.1</maven-compiler-plugin.version>
